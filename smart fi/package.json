@@ -1,0 +1,22 @@
+{
+  "name": "finwise",
+  "version": "1.0.0",
+  "description": "Smart Financial Literacy and Budget Planner for Indian Households",
+  "main": "index.html",
+  "scripts": {
+    "start": "python serve.py"
+  },
+  "keywords": [
+    "fintech",
+    "financial-literacy",
+    "budget-planner",
+    "india",
+    "savings",
+    "pmjdy",
+    "pmsby",
+    "react",
+    "tailwindcss"
+  ],
+  "author": "FINWISE Team",
+  "license": "MIT"
+}
